@@ -1,7 +1,7 @@
 # awesome-kiss
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome [KISS](https://kisslinux.org) repositories, spins, commands, etc. Pull requests are welcome and encouraged, please read the [contribution guidelines](CONTRIBUTING.md) beforehand, though!
+Awesome [KISS](https://kisslinux.github.io) repositories, spins, commands, etc. Pull requests are welcome and encouraged, please read the [contribution guidelines](CONTRIBUTING.md) beforehand, though!
 
 ## Contents
   - [Community](#community)
@@ -60,10 +60,10 @@ This list does not include personal repositories, just repos with a direct purpo
   - [tuitube](https://github.com/djt3/tuitube) - A minimal TUI YouTube (invidious) frontend made in c++.
 
 ## Documentation
-  - [Official wiki](https://kisslinux.org/wiki/)
-  - [Installation guide](https://kisslinux.org/install)
+  - [Official wiki](https://kisslinux.github.io/wiki/)
+  - [Installation guide](https://kisslinux.github.io/install)
 
 ## Resources
   - [kiss-community/awesome-kiss](https://github.com/kiss-community/awesome-kiss) - META
-  - [Official website](https://kisslinux.org/)
+  - [Official website](https://kisslinux.github.io/)
   - gemini://tilde.team/~kiedtl/k1ss - Gemini mirror of website
